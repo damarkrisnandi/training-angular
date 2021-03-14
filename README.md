@@ -21,20 +21,6 @@
 
 untuk lebih lengkapnya lihat [Angular Releases](https://angular.io/guide/releases)
 
-<!-- ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/) -->
+[Materi Day 1](./angular-app-dev/day-1.md)
+[Tugas Day 1](./angular-app-dev/tugas-day-1.md)
