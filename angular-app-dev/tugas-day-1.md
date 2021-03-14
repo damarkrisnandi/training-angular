@@ -3,7 +3,7 @@
 * Create new app (gunakan saja app yang dibuat tadi)
 * Hapus semua isi di ``app.component.html`` kecuali ``<router-outlet></router-outlet>``
 * Create new component, namakan ``Tugas1``
-* Daftarkan ke ``route`` pada ``app.routing.module`` dengan cara
+* Daftarkan component tsb ke ``route`` pada ``app-routing.module.ts`` dengan cara
 ```typescript
 const routes: Routes = [{
   path: 'tugas1',
